@@ -1,12 +1,15 @@
 body {
-  margin: 32px;
   font-family: 'Roboto', sans-serif;
   font-size: 18px;
 }
 
+selection {
+  margin: 32px;
+}
+
 h1 {
   word-spacing: 20px;
-  text-transform: capitalize;
+  text-transform: uppercase;
   text-align: center;
 }
 
@@ -15,10 +18,10 @@ p {
 }
 
 span {
-  font-weight: bold;
+  font-weight: 900;
   letter-spacing: 3px;
   font-size: 24px;
-  opacity: 80%;
+  opacity: 0.8;
   text-decoration: underline;
 }
 
