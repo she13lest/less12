@@ -1,10 +1,10 @@
-html {
-  font-family: Roboto, sans-serif;
-  font-size: 18px;
+section {
+  margin: 32px;
 }
 
-selection {
-  margin: 32px;
+html {
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
 }
 
 h1 {
@@ -21,7 +21,7 @@ p {
   font-weight: 900;
   letter-spacing: 3px;
   font-size: 24px;
-  opacity: 0.8;
+  opacity: 80%;
   text-decoration: underline;
 }
 
@@ -30,5 +30,5 @@ a {
 }
 
 .foreign {
-  background-color: grey;
+  color: grey;
 }
